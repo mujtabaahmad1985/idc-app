@@ -1,0 +1,56 @@
+@extends('layout.app')
+@section('page-title') Blank @endsection
+@section('css')
+
+@endsection
+
+
+@section('content')
+
+    <div class="page-header page-header-light">
+        <div class="page-header-content header-elements-lg-inline">
+            <div class="page-title d-flex">
+                <h4><i class="icon-arrow-left52 mr-2"></i> <span class="font-weight-semibold">Products</span> - New Product</h4>
+                <a href="#" class="header-elements-toggle text-body d-lg-none"><i class="icon-more"></i></a>
+            </div>
+
+            <div class="header-elements d-none">
+                <div class="d-flex justify-content-center">
+                    <a href="#" class="btn btn-link btn-float text-body"><i class="icon-bars-alt text-primary"></i><span>Dashboard</span></a>
+                    <a href="#" class="btn btn-link btn-float text-body"><i class="icon-calculator text-primary"></i> <span>Appointments</span></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="breadcrumb-line breadcrumb-line-light header-elements-lg-inline">
+            <div class="d-flex">
+                <div class="breadcrumb">
+                    <a href="/dashboard" class="breadcrumb-item"><i class="icon-home2 mr-2"></i> Home</a>
+                    <a href="/pharmacy" class="breadcrumb-item">Products</a>
+                    <span class="breadcrumb-item active">New Product</span>
+                </div>
+
+                <a href="#" class="header-elements-toggle text-body d-lg-none"><i class="icon-more"></i></a>
+            </div>
+
+
+        </div>
+    </div>
+
+    <div class="content">
+        <div class="card">
+
+
+            <div class="card-body">
+
+            </div>
+        </div>
+    </div>
+
+
+@endsection
+
+
+@section('js')
+
+@endsection

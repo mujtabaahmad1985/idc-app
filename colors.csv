@@ -1,0 +1,865 @@
+1,Air Force Blue (Raf),#5d8aa8
+2,Air Force Blue (Usaf),#00308f
+3,Air Superiority Blue,#72a0c1
+4,Alabama Crimson,#a32638
+5,Alice Blue,#f0f8ff
+6,Alizarin Crimson,#e32636
+7,Alloy Orange,#c46210
+8,Almond,#efdecd
+9,Amaranth,#e52b50
+10,Amber,#ffbf00
+11,Amber (Sae/Ece),#ff7e00
+12,American Rose,#ff033e
+13,Amethyst,#96c
+14,Android Green,#a4c639
+15,Anti-Flash White,#f2f3f4
+16,Antique Brass,#cd9575
+17,Antique Fuchsia,#915c83
+18,Antique Ruby,#841b2d
+19,Antique White,#faebd7
+20,Ao (English),#008000
+21,Apple Green,#8db600
+22,Apricot,#fbceb1
+23,Aqua,#0ff
+24,Aquamarine,#7fffd4
+25,Army Green,#4b5320
+26,Arsenic,#3b444b
+27,Arylide Yellow,#e9d66b
+28,Ash Grey,#b2beb5
+29,Asparagus,#87a96b
+30,Atomic Tangerine,#f96
+31,Auburn,#a52a2a
+32,Aureolin,#fdee00
+33,Aurometalsaurus,#6e7f80
+34,Avocado,#568203
+35,Azure,#007fff
+36,Azure Mist/Web,#f0ffff
+37,Baby Blue,#89cff0
+38,Baby Blue Eyes,#a1caf1
+39,Baby Pink,#f4c2c2
+40,Ball Blue,#21abcd
+41,Banana Mania,#fae7b5
+42,Banana Yellow,#ffe135
+43,Barn Red,#7c0a02
+44,Battleship Grey,#848482
+45,Bazaar,#98777b
+46,Beau Blue,#bcd4e6
+47,Beaver,#9f8170
+48,Beige,#f5f5dc
+49,Big Dip O’Ruby,#9c2542
+50,Bisque,#ffe4c4
+51,Bistre,#3d2b1f
+52,Bittersweet,#fe6f5e
+53,Bittersweet Shimmer,#bf4f51
+54,Black,#000
+55,Black Bean,#3d0c02
+56,Black Leather Jacket,#253529
+57,Black Olive,#3b3c36
+58,Blanched Almond,#ffebcd
+59,Blast-Off Bronze,#a57164
+60,Bleu De France,#318ce7
+61,Blizzard Blue,#ace5ee
+62,Blond,#faf0be
+63,Blue,#00f
+64,Blue Bell,#a2a2d0
+65,Blue (Crayola),#1f75fe
+66,Blue Gray,#69c
+67,Blue-Green,#0d98ba
+68,Blue (Munsell),#0093af
+69,Blue (Ncs),#0087bd
+70,Blue (Pigment),#339
+71,Blue (Ryb),#0247fe
+72,Blue Sapphire,#126180
+73,Blue-Violet,#8a2be2
+74,Blush,#de5d83
+75,Bole,#79443b
+76,Bondi Blue,#0095b6
+77,Bone,#e3dac9
+78,Boston University Red,#c00
+79,Bottle Green,#006a4e
+80,Boysenberry,#873260
+81,Brandeis Blue,#0070ff
+82,Brass,#b5a642
+83,Brick Red,#cb4154
+84,Bright Cerulean,#1dacd6
+85,Bright Green,#6f0
+86,Bright Lavender,#bf94e4
+87,Bright Maroon,#c32148
+88,Bright Pink,#ff007f
+89,Bright Turquoise,#08e8de
+90,Bright Ube,#d19fe8
+91,Brilliant Lavender,#f4bbff
+92,Brilliant Rose,#ff55a3
+93,Brink Pink,#fb607f
+94,British Racing Green,#004225
+95,Bronze,#cd7f32
+96,Brown (Traditional),#964b00
+97,Brown (Web),#a52a2a
+98,Bubble Gum,#ffc1cc
+99,Bubbles,#e7feff
+100,Buff,#f0dc82
+101,Bulgarian Rose,#480607
+102,Burgundy,#800020
+103,Burlywood,#deb887
+104,Burnt Orange,#c50
+105,Burnt Sienna,#e97451
+106,Burnt Umber,#8a3324
+107,Byzantine,#bd33a4
+108,Byzantium,#702963
+109,Cadet,#536872
+110,Cadet Blue,#5f9ea0
+111,Cadet Grey,#91a3b0
+112,Cadmium Green,#006b3c
+113,Cadmium Orange,#ed872d
+114,Cadmium Red,#e30022
+115,Cadmium Yellow,#fff600
+116,Café Au Lait,#a67b5b
+117,Café Noir,#4b3621
+118,Cal Poly Green,#1e4d2b
+119,Cambridge Blue,#a3c1ad
+120,Camel,#c19a6b
+121,Cameo Pink,#efbbcc
+122,Camouflage Green,#78866b
+123,Canary Yellow,#ffef00
+124,Candy Apple Red,#ff0800
+125,Candy Pink,#e4717a
+126,Capri,#00bfff
+127,Caput Mortuum,#592720
+128,Cardinal,#c41e3a
+129,Caribbean Green,#0c9
+130,Carmine,#960018
+131,Carmine (M&P),#d70040
+132,Carmine Pink,#eb4c42
+133,Carmine Red,#ff0038
+134,Carnation Pink,#ffa6c9
+135,Carnelian,#b31b1b
+136,Carolina Blue,#99badd
+137,Carrot Orange,#ed9121
+138,Catalina Blue,#062a78
+139,Ceil,#92a1cf
+140,Celadon,#ace1af
+141,Celadon Blue,#007ba7
+142,Celadon Green,#2f847c
+143,Celeste (Colour),#b2ffff
+144,Celestial Blue,#4997d0
+145,Cerise,#de3163
+146,Cerise Pink,#ec3b83
+147,Cerulean,#007ba7
+148,Cerulean Blue,#2a52be
+149,Cerulean Frost,#6d9bc3
+150,Cg Blue,#007aa5
+151,Cg Red,#e03c31
+152,Chamoisee,#a0785a
+153,Champagne,#fad6a5
+154,Charcoal,#36454f
+155,Charm Pink,#e68fac
+156,Chartreuse (Traditional),#dfff00
+157,Chartreuse (Web),#7fff00
+158,Cherry,#de3163
+159,Cherry Blossom Pink,#ffb7c5
+160,Chestnut,#cd5c5c
+161,China Pink,#de6fa1
+162,China Rose,#a8516e
+163,Chinese Red,#aa381e
+164,Chocolate (Traditional),#7b3f00
+165,Chocolate (Web),#d2691e
+166,Chrome Yellow,#ffa700
+167,Cinereous,#98817b
+168,Cinnabar,#e34234
+169,Cinnamon,#d2691e
+170,Citrine,#e4d00a
+171,Classic Rose,#fbcce7
+172,Cobalt,#0047ab
+173,Cocoa Brown,#d2691e
+174,Coffee,#6f4e37
+175,Columbia Blue,#9bddff
+176,Congo Pink,#f88379
+177,Cool Black,#002e63
+178,Cool Grey,#8c92ac
+179,Copper,#b87333
+180,Copper (Crayola),#da8a67
+181,Copper Penny,#ad6f69
+182,Copper Red,#cb6d51
+183,Copper Rose,#966
+184,Coquelicot,#ff3800
+185,Coral,#ff7f50
+186,Coral Pink,#f88379
+187,Coral Red,#ff4040
+188,Cordovan,#893f45
+189,Corn,#fbec5d
+190,Cornell Red,#b31b1b
+191,Cornflower Blue,#6495ed
+192,Cornsilk,#fff8dc
+193,Cosmic Latte,#fff8e7
+194,Cotton Candy,#ffbcd9
+195,Cream,#fffdd0
+196,Crimson,#dc143c
+197,Crimson Glory,#be0032
+198,Cyan,#0ff
+199,Cyan (Process),#00b7eb
+200,Daffodil,#ffff31
+201,Dandelion,#f0e130
+202,Dark Blue,#00008b
+203,Dark Brown,#654321
+204,Dark Byzantium,#5d3954
+205,Dark Candy Apple Red,#a40000
+206,Dark Cerulean,#08457e
+207,Dark Chestnut,#986960
+208,Dark Coral,#cd5b45
+209,Dark Cyan,#008b8b
+210,Dark Electric Blue,#536878
+211,Dark Goldenrod,#b8860b
+212,Dark Gray,#a9a9a9
+213,Dark Green,#013220
+214,Dark Imperial Blue,#00416a
+215,Dark Jungle Green,#1a2421
+216,Dark Khaki,#bdb76b
+217,Dark Lava,#483c32
+218,Dark Lavender,#734f96
+219,Dark Magenta,#8b008b
+220,Dark Midnight Blue,#036
+221,Dark Olive Green,#556b2f
+222,Dark Orange,#ff8c00
+223,Dark Orchid,#9932cc
+224,Dark Pastel Blue,#779ecb
+225,Dark Pastel Green,#03c03c
+226,Dark Pastel Purple,#966fd6
+227,Dark Pastel Red,#c23b22
+228,Dark Pink,#e75480
+229,Dark Powder Blue,#039
+230,Dark Raspberry,#872657
+231,Dark Red,#8b0000
+232,Dark Salmon,#e9967a
+233,Dark Scarlet,#560319
+234,Dark Sea Green,#8fbc8f
+235,Dark Sienna,#3c1414
+236,Dark Slate Blue,#483d8b
+237,Dark Slate Gray,#2f4f4f
+238,Dark Spring Green,#177245
+239,Dark Tan,#918151
+240,Dark Tangerine,#ffa812
+241,Dark Taupe,#483c32
+242,Dark Terra Cotta,#cc4e5c
+243,Dark Turquoise,#00ced1
+244,Dark Violet,#9400d3
+245,Dark Yellow,#9b870c
+246,Dartmouth Green,#00703c
+247,Davy'S Grey,#555
+248,Debian Red,#d70a53
+249,Deep Carmine,#a9203e
+250,Deep Carmine Pink,#ef3038
+251,Deep Carrot Orange,#e9692c
+252,Deep Cerise,#da3287
+253,Deep Champagne,#fad6a5
+254,Deep Chestnut,#b94e48
+255,Deep Coffee,#704241
+256,Deep Fuchsia,#c154c1
+257,Deep Jungle Green,#004b49
+258,Deep Lilac,#95b
+259,Deep Magenta,#c0c
+260,Deep Peach,#ffcba4
+261,Deep Pink,#ff1493
+262,Deep Ruby,#843f5b
+263,Deep Saffron,#f93
+264,Deep Sky Blue,#00bfff
+265,Deep Tuscan Red,#66424d
+266,Denim,#1560bd
+267,Desert,#c19a6b
+268,Desert Sand,#edc9af
+269,Dim Gray,#696969
+270,Dodger Blue,#1e90ff
+271,Dogwood Rose,#d71868
+272,Dollar Bill,#85bb65
+273,Drab,#967117
+274,Duke Blue,#00009c
+275,Earth Yellow,#e1a95f
+276,Ebony,#555d50
+277,Ecru,#c2b280
+278,Eggplant,#614051
+279,Eggshell,#f0ead6
+280,Egyptian Blue,#1034a6
+281,Electric Blue,#7df9ff
+282,Electric Crimson,#ff003f
+283,Electric Cyan,#0ff
+284,Electric Green,#0f0
+285,Electric Indigo,#6f00ff
+286,Electric Lavender,#f4bbff
+287,Electric Lime,#cf0
+288,Electric Purple,#bf00ff
+289,Electric Ultramarine,#3f00ff
+290,Electric Violet,#8f00ff
+291,Electric Yellow,#ff0
+292,Emerald,#50c878
+293,English Lavender,#b48395
+294,Eton Blue,#96c8a2
+295,Fallow,#c19a6b
+296,Falu Red,#801818
+297,Fandango,#b53389
+298,Fashion Fuchsia,#f400a1
+299,Fawn,#e5aa70
+300,Feldgrau,#4d5d53
+301,Fern Green,#4f7942
+302,Ferrari Red,#ff2800
+303,Field Drab,#6c541e
+304,Fire Engine Red,#ce2029
+305,Firebrick,#b22222
+306,Flame,#e25822
+307,Flamingo Pink,#fc8eac
+308,Flavescent,#f7e98e
+309,Flax,#eedc82
+310,Floral White,#fffaf0
+311,Fluorescent Orange,#ffbf00
+312,Fluorescent Pink,#ff1493
+313,Fluorescent Yellow,#cf0
+314,Folly,#ff004f
+315,Forest Green (Traditional),#014421
+316,Forest Green (Web),#228b22
+317,French Beige,#a67b5b
+318,French Blue,#0072bb
+319,French Lilac,#86608e
+320,French Lime,#cf0
+321,French Raspberry,#c72c48
+322,French Rose,#f64a8a
+323,Fuchsia,#f0f
+324,Fuchsia (Crayola),#c154c1
+325,Fuchsia Pink,#f7f
+326,Fuchsia Rose,#c74375
+327,Fulvous,#e48400
+328,Fuzzy Wuzzy,#c66
+329,Gainsboro,#dcdcdc
+330,Gamboge,#e49b0f
+331,Ghost White,#f8f8ff
+332,Ginger,#b06500
+333,Glaucous,#6082b6
+334,Glitter,#e6e8fa
+335,Gold (Metallic),#d4af37
+336,Gold (Web) (Golden),#ffd700
+337,Golden Brown,#996515
+338,Golden Poppy,#fcc200
+339,Golden Yellow,#ffdf00
+340,Goldenrod,#daa520
+341,Granny Smith Apple,#a8e4a0
+342,Gray,#808080
+343,Gray-Asparagus,#465945
+344,Gray (Html/Css Gray),#808080
+345,Gray (X11 Gray),#bebebe
+346,Green (Color Wheel) (X11 Green),#0f0
+347,Green (Crayola),#1cac78
+348,Green (Html/Css Green),#008000
+349,Green (Munsell),#00a877
+350,Green (Ncs),#009f6b
+351,Green (Pigment),#00a550
+352,Green (Ryb),#66b032
+353,Green-Yellow,#adff2f
+354,Grullo,#a99a86
+355,Guppie Green,#00ff7f
+356,Halayà úBe,#663854
+357,Han Blue,#446ccf
+358,Han Purple,#5218fa
+359,Hansa Yellow,#e9d66b
+360,Harlequin,#3fff00
+361,Harvard Crimson,#c90016
+362,Harvest Gold,#da9100
+363,Heart Gold,#808000
+364,Heliotrope,#df73ff
+365,Hollywood Cerise,#f400a1
+366,Honeydew,#f0fff0
+367,Honolulu Blue,#007fbf
+368,Hooker'S Green,#49796b
+369,Hot Magenta,#ff1dce
+370,Hot Pink,#ff69b4
+371,Hunter Green,#355e3b
+372,Iceberg,#71a6d2
+373,Icterine,#fcf75e
+374,Imperial Blue,#002395
+375,Inchworm,#b2ec5d
+376,India Green,#138808
+377,Indian Red,#cd5c5c
+378,Indian Yellow,#e3a857
+379,Indigo,#6f00ff
+380,Indigo (Dye),#00416a
+381,Indigo (Web),#4b0082
+382,International Klein Blue,#002fa7
+383,International Orange (Aerospace),#ff4f00
+384,International Orange (Engineering),#ba160c
+385,International Orange (Golden Gate Bridge),#c0362c
+386,Iris,#5a4fcf
+387,Isabelline,#f4f0ec
+388,Islamic Green,#009000
+389,Ivory,#fffff0
+390,Jade,#00a86b
+391,Jasmine,#f8de7e
+392,Jasper,#d73b3e
+393,Jazzberry Jam,#a50b5e
+394,Jet,#343434
+395,Jonquil,#fada5e
+396,June Bud,#bdda57
+397,Jungle Green,#29ab87
+398,Kelly Green,#4cbb17
+399,Kenyan Copper,#7c1c05
+400,Khaki (Html/Css) (Khaki),#c3b091
+401,Khaki (X11) (Light Khaki),#f0e68c
+402,Ku Crimson,#e8000d
+403,La Salle Green,#087830
+404,Languid Lavender,#d6cadd
+405,Lapis Lazuli,#26619c
+406,Laser Lemon,#fefe22
+407,Laurel Green,#a9ba9d
+408,Lava,#cf1020
+409,Lavender Blue,#ccf
+410,Lavender Blush,#fff0f5
+411,Lavender (Floral),#b57edc
+412,Lavender Gray,#c4c3d0
+413,Lavender Indigo,#9457eb
+414,Lavender Magenta,#ee82ee
+415,Lavender Mist,#e6e6fa
+416,Lavender Pink,#fbaed2
+417,Lavender Purple,#967bb6
+418,Lavender Rose,#fba0e3
+419,Lavender (Web),#e6e6fa
+420,Lawn Green,#7cfc00
+421,Lemon,#fff700
+422,Lemon Chiffon,#fffacd
+423,Lemon Lime,#e3ff00
+424,Licorice,#1a1110
+425,Light Apricot,#fdd5b1
+426,Light Blue,#add8e6
+427,Light Brown,#b5651d
+428,Light Carmine Pink,#e66771
+429,Light Coral,#f08080
+430,Light Cornflower Blue,#93ccea
+431,Light Crimson,#f56991
+432,Light Cyan,#e0ffff
+433,Light Fuchsia Pink,#f984ef
+434,Light Goldenrod Yellow,#fafad2
+435,Light Gray,#d3d3d3
+436,Light Green,#90ee90
+437,Light Khaki,#f0e68c
+438,Light Pastel Purple,#b19cd9
+439,Light Pink,#ffb6c1
+440,Light Red Ochre,#e97451
+441,Light Salmon,#ffa07a
+442,Light Salmon Pink,#f99
+443,Light Sea Green,#20b2aa
+444,Light Sky Blue,#87cefa
+445,Light Slate Gray,#789
+446,Light Taupe,#b38b6d
+447,Light Thulian Pink,#e68fac
+448,Light Yellow,#ffffe0
+449,Lilac,#c8a2c8
+450,Lime (Color Wheel),#bfff00
+451,Lime Green,#32cd32
+452,Lime (Web) (X11 Green),#0f0
+453,Limerick,#9dc209
+454,Lincoln Green,#195905
+455,Linen,#faf0e6
+456,Lion,#c19a6b
+457,Little Boy Blue,#6ca0dc
+458,Liver,#534b4f
+459,Lust,#e62020
+460,Magenta,#f0f
+461,Magenta (Dye),#ca1f7b
+462,Magenta (Process),#ff0090
+463,Magic Mint,#aaf0d1
+464,Magnolia,#f8f4ff
+465,Mahogany,#c04000
+466,Maize,#fbec5d
+467,Majorelle Blue,#6050dc
+468,Malachite,#0bda51
+469,Manatee,#979aaa
+470,Mango Tango,#ff8243
+471,Mantis,#74c365
+472,Mardi Gras,#880085
+473,Maroon (Crayola),#c32148
+474,Maroon (Html/Css),#800000
+475,Maroon (X11),#b03060
+476,Mauve,#e0b0ff
+477,Mauve Taupe,#915f6d
+478,Mauvelous,#ef98aa
+479,Maya Blue,#73c2fb
+480,Meat Brown,#e5b73b
+481,Medium Aquamarine,#6da
+482,Medium Blue,#0000cd
+483,Medium Candy Apple Red,#e2062c
+484,Medium Carmine,#af4035
+485,Medium Champagne,#f3e5ab
+486,Medium Electric Blue,#035096
+487,Medium Jungle Green,#1c352d
+488,Medium Lavender Magenta,#dda0dd
+489,Medium Orchid,#ba55d3
+490,Medium Persian Blue,#0067a5
+491,Medium Purple,#9370db
+492,Medium Red-Violet,#bb3385
+493,Medium Ruby,#aa4069
+494,Medium Sea Green,#3cb371
+495,Medium Slate Blue,#7b68ee
+496,Medium Spring Bud,#c9dc87
+497,Medium Spring Green,#00fa9a
+498,Medium Taupe,#674c47
+499,Medium Turquoise,#48d1cc
+500,Medium Tuscan Red,#79443b
+501,Medium Vermilion,#d9603b
+502,Medium Violet-Red,#c71585
+503,Mellow Apricot,#f8b878
+504,Mellow Yellow,#f8de7e
+505,Melon,#fdbcb4
+506,Midnight Blue,#191970
+507,Midnight Green (Eagle Green),#004953
+508,Mikado Yellow,#ffc40c
+509,Mint,#3eb489
+510,Mint Cream,#f5fffa
+511,Mint Green,#98ff98
+512,Misty Rose,#ffe4e1
+513,Moccasin,#faebd7
+514,Mode Beige,#967117
+515,Moonstone Blue,#73a9c2
+516,Mordant Red 19,#ae0c00
+517,Moss Green,#addfad
+518,Mountain Meadow,#30ba8f
+519,Mountbatten Pink,#997a8d
+520,Msu Green,#18453b
+521,Mulberry,#c54b8c
+522,Mustard,#ffdb58
+523,Myrtle,#21421e
+524,Nadeshiko Pink,#f6adc6
+525,Napier Green,#2a8000
+526,Naples Yellow,#fada5e
+527,Navajo White,#ffdead
+528,Navy Blue,#000080
+529,Neon Carrot,#ffa343
+530,Neon Fuchsia,#fe4164
+531,Neon Green,#39ff14
+532,New York Pink,#d7837f
+533,Non-Photo Blue,#a4dded
+534,North Texas Green,#059033
+535,Ocean Boat Blue,#0077be
+536,Ochre,#c72
+537,Office Green,#008000
+538,Old Gold,#cfb53b
+539,Old Lace,#fdf5e6
+540,Old Lavender,#796878
+541,Old Mauve,#673147
+542,Old Rose,#c08081
+543,Olive,#808000
+544,Olive Drab #7,#3c341f
+545,Olive Drab (Web) (Olive Drab #3),#6b8e23
+546,Olivine,#9ab973
+547,Onyx,#353839
+548,Opera Mauve,#b784a7
+549,Orange (Color Wheel),#ff7f00
+550,Orange Peel,#ff9f00
+551,Orange-Red,#ff4500
+552,Orange (Ryb),#fb9902
+553,Orange (Web Color),#ffa500
+554,Orchid,#da70d6
+555,Otter Brown,#654321
+556,Ou Crimson Red,#900
+557,Outer Space,#414a4c
+558,Outrageous Orange,#ff6e4a
+559,Oxford Blue,#002147
+560,Pakistan Green,#060
+561,Palatinate Blue,#273be2
+562,Palatinate Purple,#682860
+563,Pale Aqua,#bcd4e6
+564,Pale Blue,#afeeee
+565,Pale Brown,#987654
+566,Pale Carmine,#af4035
+567,Pale Cerulean,#9bc4e2
+568,Pale Chestnut,#ddadaf
+569,Pale Copper,#da8a67
+570,Pale Cornflower Blue,#abcdef
+571,Pale Gold,#e6be8a
+572,Pale Goldenrod,#eee8aa
+573,Pale Green,#98fb98
+574,Pale Lavender,#dcd0ff
+575,Pale Magenta,#f984e5
+576,Pale Pink,#fadadd
+577,Pale Plum,#dda0dd
+578,Pale Red-Violet,#db7093
+579,Pale Robin Egg Blue,#96ded1
+580,Pale Silver,#c9c0bb
+581,Pale Spring Bud,#ecebbd
+582,Pale Taupe,#bc987e
+583,Pale Violet-Red,#db7093
+584,Pansy Purple,#78184a
+585,Papaya Whip,#ffefd5
+586,Paris Green,#50c878
+587,Pastel Blue,#aec6cf
+588,Pastel Brown,#836953
+589,Pastel Gray,#cfcfc4
+590,Pastel Green,#7d7
+591,Pastel Magenta,#f49ac2
+592,Pastel Orange,#ffb347
+593,Pastel Pink,#dea5a4
+594,Pastel Purple,#b39eb5
+595,Pastel Red,#ff6961
+596,Pastel Violet,#cb99c9
+597,Pastel Yellow,#fdfd96
+598,Patriarch,#800080
+599,Payne'S Grey,#536878
+600,Peach,#ffe5b4
+601,Peach (Crayola),#ffcba4
+602,Peach-Orange,#fc9
+603,Peach Puff,#ffdab9
+604,Peach-Yellow,#fadfad
+605,Pear,#d1e231
+606,Pearl,#eae0c8
+607,Pearl Aqua,#88d8c0
+608,Pearly Purple,#b768a2
+609,Peridot,#e6e200
+610,Periwinkle,#ccf
+611,Persian Blue,#1c39bb
+612,Persian Green,#00a693
+613,Persian Indigo,#32127a
+614,Persian Orange,#d99058
+615,Persian Pink,#f77fbe
+616,Persian Plum,#701c1c
+617,Persian Red,#c33
+618,Persian Rose,#fe28a2
+619,Persimmon,#ec5800
+620,Peru,#cd853f
+621,Phlox,#df00ff
+622,Phthalo Blue,#000f89
+623,Phthalo Green,#123524
+624,Piggy Pink,#fddde6
+625,Pine Green,#01796f
+626,Pink,#ffc0cb
+627,Pink Lace,#ffddf4
+628,Pink-Orange,#f96
+629,Pink Pearl,#e7accf
+630,Pink Sherbet,#f78fa7
+631,Pistachio,#93c572
+632,Platinum,#e5e4e2
+633,Plum (Traditional),#8e4585
+634,Plum (Web),#dda0dd
+635,Portland Orange,#ff5a36
+636,Powder Blue (Web),#b0e0e6
+637,Princeton Orange,#ff8f00
+638,Prune,#701c1c
+639,Prussian Blue,#003153
+640,Psychedelic Purple,#df00ff
+641,Puce,#c89
+642,Pumpkin,#ff7518
+643,Purple Heart,#69359c
+644,Purple (Html/Css),#800080
+645,Purple Mountain Majesty,#9678b6
+646,Purple (Munsell),#9f00c5
+647,Purple Pizzazz,#fe4eda
+648,Purple Taupe,#50404d
+649,Purple (X11),#a020f0
+650,Quartz,#51484f
+651,Rackley,#5d8aa8
+652,Radical Red,#ff355e
+653,Rajah,#fbab60
+654,Raspberry,#e30b5d
+655,Raspberry Glace,#915f6d
+656,Raspberry Pink,#e25098
+657,Raspberry Rose,#b3446c
+658,Raw Umber,#826644
+659,Razzle Dazzle Rose,#f3c
+660,Razzmatazz,#e3256b
+661,Red,#f00
+662,Red-Brown,#a52a2a
+663,Red Devil,#860111
+664,Red (Munsell),#f2003c
+665,Red (Ncs),#c40233
+666,Red-Orange,#ff5349
+667,Red (Pigment),#ed1c24
+668,Red (Ryb),#fe2712
+669,Red-Violet,#c71585
+670,Redwood,#ab4e52
+671,Regalia,#522d80
+672,Resolution Blue,#002387
+673,Rich Black,#004040
+674,Rich Brilliant Lavender,#f1a7fe
+675,Rich Carmine,#d70040
+676,Rich Electric Blue,#0892d0
+677,Rich Lavender,#a76bcf
+678,Rich Lilac,#b666d2
+679,Rich Maroon,#b03060
+680,Rifle Green,#414833
+681,Robin Egg Blue,#0cc
+682,Rose,#ff007f
+683,Rose Bonbon,#f9429e
+684,Rose Ebony,#674846
+685,Rose Gold,#b76e79
+686,Rose Madder,#e32636
+687,Rose Pink,#f6c
+688,Rose Quartz,#aa98a9
+689,Rose Taupe,#905d5d
+690,Rose Vale,#ab4e52
+691,Rosewood,#65000b
+692,Rosso Corsa,#d40000
+693,Rosy Brown,#bc8f8f
+694,Royal Azure,#0038a8
+695,Royal Blue (Traditional),#002366
+696,Royal Blue (Web),#4169e1
+697,Royal Fuchsia,#ca2c92
+698,Royal Purple,#7851a9
+699,Royal Yellow,#fada5e
+700,Rubine Red,#d10056
+701,Ruby,#e0115f
+702,Ruby Red,#9b111e
+703,Ruddy,#ff0028
+704,Ruddy Brown,#bb6528
+705,Ruddy Pink,#e18e96
+706,Rufous,#a81c07
+707,Russet,#80461b
+708,Rust,#b7410e
+709,Rusty Red,#da2c43
+710,Sacramento State Green,#00563f
+711,Saddle Brown,#8b4513
+712,Safety Orange (Blaze Orange),#ff6700
+713,Saffron,#f4c430
+714,Salmon,#ff8c69
+715,Salmon Pink,#ff91a4
+716,Sand,#c2b280
+717,Sand Dune,#967117
+718,Sandstorm,#ecd540
+719,Sandy Brown,#f4a460
+720,Sandy Taupe,#967117
+721,Sangria,#92000a
+722,Sap Green,#507d2a
+723,Sapphire,#0f52ba
+724,Sapphire Blue,#0067a5
+725,Satin Sheen Gold,#cba135
+726,Scarlet,#ff2400
+727,Scarlet (Crayola),#fd0e35
+728,School Bus Yellow,#ffd800
+729,Screamin' Green,#76ff7a
+730,Sea Blue,#006994
+731,Sea Green,#2e8b57
+732,Seal Brown,#321414
+733,Seashell,#fff5ee
+734,Selective Yellow,#ffba00
+735,Sepia,#704214
+736,Shadow,#8a795d
+737,Shamrock Green,#009e60
+738,Shocking Pink,#fc0fc0
+739,Shocking Pink (Crayola),#ff6fff
+740,Sienna,#882d17
+741,Silver,#c0c0c0
+742,Sinopia,#cb410b
+743,Skobeloff,#007474
+744,Sky Blue,#87ceeb
+745,Sky Magenta,#cf71af
+746,Slate Blue,#6a5acd
+747,Slate Gray,#708090
+748,Smalt (Dark Powder Blue),#039
+749,Smokey Topaz,#933d41
+750,Smoky Black,#100c08
+751,Snow,#fffafa
+752,Spiro Disco Ball,#0fc0fc
+753,Spring Bud,#a7fc00
+754,Spring Green,#00ff7f
+755,St. Patrick'S Blue,#23297a
+756,Steel Blue,#4682b4
+757,Stil De Grain Yellow,#fada5e
+758,Stizza,#900
+759,Stormcloud,#4f666a
+760,Straw,#e4d96f
+761,Sunglow,#fc3
+762,Sunset,#fad6a5
+763,Tan,#d2b48c
+764,Tangelo,#f94d00
+765,Tangerine,#f28500
+766,Tangerine Yellow,#fc0
+767,Tango Pink,#e4717a
+768,Taupe,#483c32
+769,Taupe Gray,#8b8589
+770,Tea Green,#d0f0c0
+771,Tea Rose (Orange),#f88379
+772,Tea Rose (Rose),#f4c2c2
+773,Teal,#008080
+774,Teal Blue,#367588
+775,Teal Green,#00827f
+776,Telemagenta,#cf3476
+777,Tenné (Tawny),#cd5700
+778,Terra Cotta,#e2725b
+779,Thistle,#d8bfd8
+780,Thulian Pink,#de6fa1
+781,Tickle Me Pink,#fc89ac
+782,Tiffany Blue,#0abab5
+783,Tiger'S Eye,#e08d3c
+784,Timberwolf,#dbd7d2
+785,Titanium Yellow,#eee600
+786,Tomato,#ff6347
+787,Toolbox,#746cc0
+788,Topaz,#ffc87c
+789,Tractor Red,#fd0e35
+790,Trolley Grey,#808080
+791,Tropical Rain Forest,#00755e
+792,True Blue,#0073cf
+793,Tufts Blue,#417dc1
+794,Tumbleweed,#deaa88
+795,Turkish Rose,#b57281
+796,Turquoise,#30d5c8
+797,Turquoise Blue,#00ffef
+798,Turquoise Green,#a0d6b4
+799,Tuscan Red,#7c4848
+800,Twilight Lavender,#8a496b
+801,Tyrian Purple,#66023c
+802,Ua Blue,#03a
+803,Ua Red,#d9004c
+804,Ube,#8878c3
+805,Ucla Blue,#536895
+806,Ucla Gold,#ffb300
+807,Ufo Green,#3cd070
+808,Ultra Pink,#ff6fff
+809,Ultramarine,#120a8f
+810,Ultramarine Blue,#4166f5
+811,Umber,#635147
+812,Unbleached Silk,#ffddca
+813,United Nations Blue,#5b92e5
+814,University Of California Gold,#b78727
+815,Unmellow Yellow,#ff6
+816,Up Forest Green,#014421
+817,Up Maroon,#7b1113
+818,Upsdell Red,#ae2029
+819,Urobilin,#e1ad21
+820,Usafa Blue,#004f98
+821,Usc Cardinal,#900
+822,Usc Gold,#fc0
+823,Utah Crimson,#d3003f
+824,Vanilla,#f3e5ab
+825,Vegas Gold,#c5b358
+826,Venetian Red,#c80815
+827,Verdigris,#43b3ae
+828,Vermilion (Cinnabar),#e34234
+829,Vermilion (Plochere),#d9603b
+830,Veronica,#a020f0
+831,Violet,#8f00ff
+832,Violet-Blue,#324ab2
+833,Violet (Color Wheel),#7f00ff
+834,Violet (Ryb),#8601af
+835,Violet (Web),#ee82ee
+836,Viridian,#40826d
+837,Vivid Auburn,#922724
+838,Vivid Burgundy,#9f1d35
+839,Vivid Cerise,#da1d81
+840,Vivid Tangerine,#ffa089
+841,Vivid Violet,#9f00ff
+842,Warm Black,#004242
+843,Waterspout,#a4f4f9
+844,Wenge,#645452
+845,Wheat,#f5deb3
+846,White,#fff
+847,White Smoke,#f5f5f5
+848,Wild Blue Yonder,#a2add0
+849,Wild Strawberry,#ff43a4
+850,Wild Watermelon,#fc6c85
+851,Wine,#722f37
+852,Wine Dregs,#673147
+853,Wisteria,#c9a0dc
+854,Wood Brown,#c19a6b
+855,Xanadu,#738678
+856,Yale Blue,#0f4d92
+857,Yellow,#ff0
+858,Yellow-Green,#9acd32
+859,Yellow (Munsell),#efcc00
+860,Yellow (Ncs),#ffd300
+861,Yellow Orange,#ffae42
+862,Yellow (Process),#ffef00
+863,Yellow (Ryb),#fefe33
+864,Zaffre,#0014a8
+865,Zinnwaldite Brown,#2c1608

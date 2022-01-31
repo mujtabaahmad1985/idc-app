@@ -1,0 +1,7 @@
+{
+    "clientID": "61109495143-p4knu9um8d2ejupsoho22bqorba8k9r8.apps.googleusercontent.com",
+    "clientSecret": "1f7FwseyYH19NIGw-cVinQhF",
+    "redirectUri": "http://local.idc-admin.com/auth/google/contact",
+    "developerKey": "AIzaSyA_CjZe_0nU6g1ClmgUZ0F807X4o48uJFo",
+    "refreshToken": "4/AADxDzFJ0CkoUXO60WpO70Bl7eYJuQnPAuFhDbY1bNSHhkvrsKYUCEd6hxOgPpv1LGyJfUMkN9MoDsyMn8moVPk"
+}

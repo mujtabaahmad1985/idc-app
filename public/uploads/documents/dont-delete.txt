@@ -1,0 +1,89 @@
+810 x 1080
+501008371
+4012001037141112 
+
+
+http://local.idc-admin.me/validate/secure/link?email=alnoor12@gmail.com&q=$2y$10$2/0J3Gr1cDZf/Z4Gt6D9jui4O4G8pMCTp6w7enOc79UT9qsKh.O0K&u=100
+http://local.idc-admin.me/validate/secure/link?email=national@medical.net&q=$2y$10$2/0J3Gr1cDZf/Z4Gt6D9jui4O4G8pMCTp6w7enOc79UT9qsKh.O0K&u=102
+
+
+1. Table issue dinging
+2. whatsapp numbner
+3. All resto are showing
+4. Sub items are not dispalying.
+5. slider in recipe detail
+6. Price incase of 0
+
+
+
+1. Mobile enter next time no need for mobile
+
+
+1. Load data hospitalwise
+2. Show patient chart
+3. Show revenuw last year and current year
+4. Total Patient, last month and current month
+5. Total Appointments, last month and current month
+6. Filter all data by day, month and year
+
+
+
+
+1. Customizable
+2. Price  issue at recipe
+3. Radio  button for english page
+4. Location picking issue
+
+
+1. Change time at deliver order page
+2. Timezone issues
+
+
+jhlf1mmx0ssq
+-cH<K2!r#S
+
+my-test-resto-1423-s-r
+G]E^l!0D
+
+
+u have new admin which I told u about
+
+
+address is not showing the chosen location in beginning when reach address page , and the box where you write the unknown address u get from google maps ... do we need to show on this box ? I dont think so ... this box for exact or extra information like house number ... etc 
+
+
+Zaid, 3:50 AM
+the whatsapp message u send has a wrong text in Arabic
+
+on track order when order cancelled you show wrong Arabic text 
+
+u force me to add tax where it is coming in lot of places .. this was only requested by NB flowers
+
+
+1. Super admin & resto with respective meta info
+2. Address issue on create address page
+3. Map marker for selected address
+4. Whatsapp message issues
+5. Track order cancel arabic text issue
+
+
+------------------------
+
+
+1. Line issue at tracking page
+2. Circle at place order button
+3. restrict user to pick the receiver
+4. Picka and delivery button issues after pickup
+5. IQD in admin
+
+
+Missing part for now
+
+1 .Discount
+2. Loyality point
+3. Special Offers
+4. Reviews
+
+
+
+

@@ -1,0 +1,18 @@
+/*Mujtaba Start*/
+.md-editor{ width:600px !important;}
+.filter-panel{ width: 600px;
+    padding:15px;}
+/*Mujtaba END*/
+
+.ajax-loader{
+    padding: 25px;
+    border-radius: 5px;
+    position: absolute;
+    font-size: 20px;
+    left: 50%;
+    top: 50%;
+    z-index: 10;
+    border: 1px solid #4CD0F4;
+    background: #FFF;
+    display: none;
+}
